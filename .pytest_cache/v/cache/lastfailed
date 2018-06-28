@@ -1,0 +1,9 @@
+{
+  "scripts/test_01.py": true,
+  "scripts/test_load.py::TestLoad::test_load003": true,
+  "scripts/test_load.py::TestLoad::test_load004": true,
+  "scripts/test_load.py::TestLoad::test_load005": true,
+  "scripts/test_load.py::TestLoad::test_load007": true,
+  "scripts/test_load.py::TestLoad::test_load008": true,
+  "scripts/test_load.py::TestLoad::test_load009": true
+}
